@@ -2,6 +2,8 @@
 
 - Sou estudante de Ciência da computação desde 2022
 
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-amendoeira/) 
+
 ---
 
 <h3 align="left">Áreas que possuo conhecimento:</h3>
