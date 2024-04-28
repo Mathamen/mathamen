@@ -37,12 +37,16 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a> </p>
 
+<br>
 
 
 
 
-
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mathamen&show_icons=true&theme=synthwave" style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathamen&theme=synthwave" style="flex: 1; margin: 10px;">
+<div align="center"> 
+  <a href="https://github.com/mathamen/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mathamen&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mathamen/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathamen&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
 </div>
