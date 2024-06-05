@@ -58,6 +58,6 @@
 --- 
 
 <div align="center"> 
- <h3>"I have made all the calculations; fate will do the rest."</h3>
- <h5>Napoleon Bonaparte</h5>
+ <h3>"Don't think, just do."</h3>
+ <h5>Horace</h5>
 </div>
